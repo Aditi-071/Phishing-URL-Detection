@@ -1,0 +1,15 @@
+{
+  "input_rows": 549251,
+  "usable_rows": 507096,
+  "removed_or_invalid_rows": 42155,
+  "class_counts": {
+    "0": 392806,
+    "1": 114290
+  },
+  "label_mapping": {
+    "good/legitimate": 0,
+    "bad/phishing": 1
+  },
+  "url_column": "URL",
+  "label_column": "Label"
+}
